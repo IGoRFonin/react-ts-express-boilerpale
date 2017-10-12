@@ -1,4 +1,4 @@
-React (Typescript) with MONGO EXPRES
+React (Typescript) with MONGO EXPRESS
 ====================================================================
 
 ```
